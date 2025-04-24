@@ -1,9 +1,9 @@
-name: TSPI Staging
+name: Supabase Migration
 
 on:
   push:
     branches:
-      - tspi/staging
+      - develop
   workflow_dispatch:
 
 jobs:
